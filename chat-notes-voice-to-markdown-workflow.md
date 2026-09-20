@@ -18,7 +18,7 @@ The technical setup is minimal: a Next.js app on AWS Amplify, a GitHub repo wher
 
 There are two connections in play. The dashboard uses GitHub to read and manage the markdown files, and there's a button that links straight to the Chat Notes project in ChatGPT. No custom API work there, just a direct project link.
 
-[Screenshot: Chat Notes dashboard showing the list of notes]
+https://latestartbucket.s3.us-east-2.amazonaws.com/mobile-phone/chat-hub-screenshot-1789928238958-313a821f.webp
 
 And that's how this post got written. I talked it through, saved the useful parts, and cleaned it up inside that same workflow.
 
