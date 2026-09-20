@@ -1,6 +1,6 @@
 # I Built a Voice-to-Markdown Workflow with ChatGPT, GitHub, and Next.js
 
-A few days ago, I was driving and had a couple ideas pop into my head that I really wanted to remember. I've been working with Davis Defense on content about Minnesota's hands-free driving law, so I've gotten careful about not picking up my phone. But I also knew there was a good chance those ideas would be gone by the time I got where I was going. So, I started talking.
+A few days ago, I was driving and had a couple ideas pop into my head that I really wanted to remember. I've been working with [Davis Defense](https://www.davisdefenselawyers.com/video/traffic-violations-minnesota) on content about Minnesota's hands-free driving law, so I've gotten careful about not picking up my phone. But I also knew there was a good chance those ideas would be gone by the time I got where I was going. So, I started talking.
 
 
 https://latestartbucket.s3.us-east-2.amazonaws.com/mobile-phone/ChatGPT-phone-1789927741074-b64ff7d1.webp
