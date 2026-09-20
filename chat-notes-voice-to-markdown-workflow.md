@@ -4,7 +4,7 @@ A few days ago, I was driving and had a couple ideas pop into my head that I rea
 
 [Screenshot: ChatGPT conversation on my phone]
 
-https://latestartbucket.s3.us-east-2.amazonaws.com/mobile-phone/Woody-sploot-1789923518961-c1926cf0.webp
+
 
 I opened ChatGPT and worked through the ideas out loud using the talk function. That part was easy. What I started thinking about afterward was where those conversations go. I didn't want another chat buried in a list somewhere. I wanted actual notes I could find, scan, edit, and keep.
 
