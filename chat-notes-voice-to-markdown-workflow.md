@@ -1,0 +1,23 @@
+# I Built a Voice-to-Markdown Workflow with ChatGPT, GitHub, and Next.js
+
+A few days ago, I was driving and had a couple ideas pop into my head that I really wanted to remember. I've been working with Davis Defense Lawyers on content about Minnesota's hands-free driving law, so I've gotten a lot more careful about not picking up my phone. But I also knew there was a good chance those ideas would be gone by the time I got where I was going. So, I started talking.
+
+[Screenshot: ChatGPT conversation on my phone]
+
+I opened ChatGPT and worked through the ideas out loud. That part was easy. What I started thinking about afterward was where those conversations go. I didn't want another chat buried in a list somewhere. I wanted actual notes I could find, scan, edit, and keep.
+
+That became a small project I'm calling **Chat Notes**. The concept is pretty straightforward. I talk through an idea in ChatGPT, save the useful parts as a markdown file in a GitHub repository, and view those files in a simple interface I built, so everything's visible at a glance.
+
+GitHub was a natural fit because I was already using it and already had it connected. Markdown keeps it simple. Just text that's easy to edit. GitHub renders it automatically, and the app converts it for the web.
+
+[Screenshot: GitHub repository showing the markdown files]
+
+The technical setup is minimal: a Next.js app on AWS Amplify, a GitHub repo where each note is a markdown file, and this ChatGPT project with instructions for turning conversations into structured notes.
+
+There are two connections in play. The dashboard uses GitHub to read and manage the markdown files, and there's a button that links straight to the Chat Notes project in ChatGPT. No custom API work there, just a direct project link.
+
+[Screenshot: Chat Notes dashboard showing the list of notes]
+
+And that's how this post got written. I talked it through, saved the useful parts, and cleaned it up inside that same workflow.
+
+It's the same kind of practical, lightweight tooling I build for clients. If you're curious about simple automations or custom workflows, feel free to reach out.
