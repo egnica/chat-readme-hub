@@ -12,7 +12,7 @@ That became a small project I'm calling **Chat Notes**. The concept is pretty st
 
 GitHub was a natural fit because I was already using it and already had it connected to chatGPT. Markdown keeps it simple. Just text that's easy to edit. GitHub renders it automatically, and the app converts it for the web.
 
-[Screenshot: GitHub repository showing the markdown files]
+https://latestartbucket.s3.us-east-2.amazonaws.com/mobile-phone/github-screenshot-1789928101399-d653f0ad.webp
 
 The technical setup is minimal: a Next.js app on AWS Amplify, a GitHub repo where each note is a markdown file, and this ChatGPT project with instructions for turning conversations into structured notes.
 
