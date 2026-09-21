@@ -7,7 +7,7 @@
   - [ ] Add a Boolean-style flag to the location data object so full location-area pages can be enabled intentionally by market.
   - [ ] Use that flag to release the Bloomington pages together rather than publishing every planned location at once.
 - [ ] **SEO podcast — Tuesday** — Prepare talking points around video SEO, with JSON-LD / structured data as a main point.
-- [ ] **Chat README Hub blog post** — Finish the nearly completed post about the new Chat Notes / voice-to-Markdown workflow.
+- [X] **Chat README Hub blog post** — Finish the nearly completed post about the new Chat Notes / voice-to-Markdown workflow.
   - [ ] Create the hero image for the post.
 
 ## Client work and follow-up
