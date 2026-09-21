@@ -8,7 +8,7 @@
   - [ ] Use that flag to release the Bloomington pages together rather than publishing every planned location at once.
 - [ ] **SEO podcast — Tuesday** — Prepare talking points around video SEO, with JSON-LD / structured data as a main point.
 - [X] **Chat README Hub blog post** — Finish the nearly completed post about the new Chat Notes / voice-to-Markdown workflow.
-  - [ ] Create the hero image for the post.
+  - [X] Create the hero image for the post.
 
 ## Client work and follow-up
 
