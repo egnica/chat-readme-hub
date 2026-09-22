@@ -25,6 +25,12 @@
   - [ ] Capture process notes for a future blog post about reaching the Facebook API connection milestone and the steps involved in building the tool.
 - [ ] **CRM communication hub** — Add the email campaign section to the current email setup so client campaigns can live alongside the existing one-off email tool.
 - [ ] **Chat README Hub** — Add interactive rendered Markdown checkboxes so checking an item can persist back to GitHub without manually editing `[ ]` to `[x]` in raw Markdown.
+- [ ] **Mobile blog image workflow / Adobe Express** — Evaluate Adobe Express as the phone-first image creation and editing step for publishing blog posts while away from the computer.
+  - [ ] Test the Adobe Express iPhone app by creating a real blog hero image and evaluate how fast and frictionless the workflow feels.
+  - [ ] Explore Adobe Express Embed SDK / Edit Image integration for the existing Next.js image application, including how the edited image could return to the app.
+  - [ ] Check current access and business approval requirements for Adobe Express embedding.
+  - [ ] If the integration is viable, scope an **Edit in Adobe Express** button in the image application.
+  - [ ] Keep Picsart in mind as a mobile fallback if Adobe Express does not fit the workflow.
 
 ## Creative / lower priority
 
