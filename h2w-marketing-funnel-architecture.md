@@ -238,3 +238,70 @@ Once the core funnel is operating and measurable, additional acquisition and com
 - More advanced segmentation
 
 The goal is to establish one understandable, measurable customer path first and expand only after that path is working.
+
+
+---
+
+## Podcast Production & Social Content Strategy
+
+The podcast should serve as an **idea source for H2W social content**, but the strategy should not simply be to chop every episode into arbitrary short clips.
+
+The goal is to create intentional social content from the strongest ideas and moments that come out of each conversation.
+
+### Suggested Workflow
+
+1. Record the full H2W podcast episode.
+2. During or immediately after recording, Moe identifies **2–3 moments, ideas, stories, or takeaways** that felt especially important.
+3. Transcribe the full episode.
+4. Use the transcript — potentially with AI assistance — to identify additional strong moments that may work as standalone content.
+5. Select only the moments that genuinely make sense outside the context of the full podcast.
+6. Rather than posting a raw excerpt by itself, Moe can record a **short introduction or reflection** that sets up the selected clip.
+7. Combine Moe's introduction with the relevant podcast excerpt to create a more intentional social post.
+8. Publish and manage the resulting content through the existing multi-client Content/Social Hub.
+
+### Why This Approach
+
+The podcast remains the long-form content engine, but H2W does not become dependent on generic podcast clipping.
+
+Instead:
+
+**Podcast → Strong Idea → Moe's Reflection / Introduction → Relevant Clip → Purpose-Built Social Content**
+
+This keeps Moe involved in deciding what deserves emphasis and helps the social content feel native and intentional rather than like recycled podcast footage.
+
+There should **not** initially be a rigid promise that every episode produces a specific number of clips. The quality and usefulness of the ideas should determine what gets produced.
+
+### Recording-Day Opportunity
+
+A short debrief immediately after each podcast recording could become part of the production workflow.
+
+While the conversation is still fresh, ask Moe:
+
+- What were the 2–3 most important things you said today?
+- Was there a moment you would want someone to hear even if they never listened to the full episode?
+- Is there anything you want to explain differently or expand on directly to camera?
+
+Those answers can guide the social content created from the episode.
+
+### Relationship to the Funnel
+
+These social pieces can become additional entry points into the same H2W funnel:
+
+**Social Content → H2W Website / Relevant Podcast Episode → Recovery Check-In → Email Nurture → Fit Call**
+
+The social system therefore supports the funnel without requiring a separate marketing path.
+
+### Current Scope Note
+
+Podcast production frequency and social deliverables are still **TBD**.
+
+Before defining a monthly retainer or fixed content volume, confirm:
+
+- How often Moe plans to record/release the podcast
+- Whether episodes will be video + audio
+- How involved Nick will be in recording and production
+- Which social platforms Moe wants to prioritize
+- How much original social content Moe wants to record
+- What level of posting/community management she expects
+
+This should be clarified before committing to a fixed monthly content package.
