@@ -1,11 +1,13 @@
-# Building My Own Social Media Hub
-
 Hero image:
-https://latestartbucket.s3.us-east-2.amazonaws.com/mobile-phone/Untitled-October-05-2026-at-12.37-1791222692126-46574a68.webp
+https://latestartbucket.s3.us-east-2.amazonaws.com/mobile-phone/hub-hero-1791234815856-c645ebef.webp
+
+# Building My Own Social Media Hub
 
 I didn’t set out to reinvent social media management.
 
 There are already plenty of tools that let you manage multiple accounts, schedule posts, and keep content in one place. But every time I looked at one, I seemed to run into another subscription, another paywall, or a workflow that didn’t quite fit how I wanted to work.
+
+https://latestartbucket.s3.us-east-2.amazonaws.com/mobile-phone/best-social-media-management-hero-1791233036157-47835c7d.webp
 
 At some point I realized: this is literally the kind of thing I build.
 
@@ -18,6 +20,8 @@ The main idea is pretty straightforward.
 I want one central hub where I can create a core piece of content and then use that content across multiple platforms.
 
 Instead of starting from scratch every time I need a Facebook post, Instagram post, LinkedIn update, Google Business update, or eventually even a blog post, I can start with one master piece of content.
+
+https://latestartbucket.s3.us-east-2.amazonaws.com/mobile-phone/Screenshot-2026-10-05-at-3.45-1791233173439-4015cd11.webp
 
 From there, the hub can adapt that content for the places where it needs to go.
 
@@ -37,6 +41,8 @@ But that’s also been one of the more satisfying parts of building it.
 
 Right now, I have Facebook and Instagram connected, and I’ve already connected multiple accounts and published real posts directly through the hub.
 
+https://latestartbucket.s3.us-east-2.amazonaws.com/mobile-phone/Screenshot-2026-10-05-at-3.47-1791233273203-05a6d1db.webp
+
 That was an important milestone.
 
 The application doesn’t need to be completely finished before it becomes useful. I can actually use it while I continue building it.
@@ -47,7 +53,11 @@ Once I could publish something immediately, the next problem was figuring out ho
 
 Behind the scenes, I’m using AWS EventBridge and Lambda to handle scheduling and automation.
 
+https://latestartbucket.s3.us-east-2.amazonaws.com/mobile-phone/aws-apps-1791233476144-1bbc957e.webp
+
 I don’t need the person using the hub to know—or care—how any of that works. They should just be able to choose a date and time and trust that the post will go out.
+
+
 
 But getting that apparently small feature working means connecting several different pieces behind the scenes.
 
