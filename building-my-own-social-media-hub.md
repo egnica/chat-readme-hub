@@ -1,5 +1,8 @@
 # Building My Own Social Media Hub
 
+Hero image:
+https://latestartbucket.s3.us-east-2.amazonaws.com/mobile-phone/Untitled-October-05-2026-at-12.37-1791222692126-46574a68.webp
+
 I didn’t set out to reinvent social media management.
 
 There are already plenty of tools that let you manage multiple accounts, schedule posts, and keep content in one place. But every time I looked at one, I seemed to run into another subscription, another paywall, or a workflow that didn’t quite fit how I wanted to work.
